@@ -1,0 +1,4 @@
+# ignore env and mlruns
+/env
+/mlruns
+requirements.txt
